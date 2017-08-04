@@ -3,5 +3,6 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
+ <!-- 测试修改密码 -->
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
